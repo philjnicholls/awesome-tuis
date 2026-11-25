@@ -816,6 +816,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [Tabiew](https://github.com/shshemi/tabiew) A lightweight app to view and query tabular data files, such as CSV, TSV, and parquet.
 - [taskline](https://github.com/perryrh0dan/taskline) Tasks, boards & notes for the command-line habitat
 - [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui) A Terminal User Interface for Taskwarrior
+- [tui-trello](https://github.com/philjnicholls/tui-trello) Keyboard-first Trello client with vim keys, triage and my-work views, search across boards and notifications
 - [television](https://github.com/alexpasmantier/television) A fast and versatile fuzzy finder TUI
 - [termscp](https://github.com/veeso/termscp) A TUI file transfer and explorer, with support for SCP/SFTP/FTP/S3.
 - [tiki](https://github.com/boolean-maybe/tiki) Markdown-based git-versioned project and issue manager
